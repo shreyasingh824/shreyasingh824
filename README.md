@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there! 👋 I'm Shreya Singh.
 
-<!--
-**shreyasingh824/shreyasingh824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing my M.Tech in Computer Technology at [Indian Institute of Technology (IIT) Jammu](http://iitjammu.ac.in/), where I serve as a Research Assistant (RA). My research interests lie in network security(Authentication schemes).
+## 📚 Education
 
-Here are some ideas to get you started:
+- **M.Tech in Computer Technology**
+  [Indian Institute of Technology (IIT) Jammu](http://iitjammu.ac.in/), [Year of Joining] - Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Skills
+
+- **Programming Languages:** [C/C++, Python, Socket Programming]
+- **Tools & Technologies:** [nmap, TcpDump, hping3, Wazuh, ZAP, Netcat, Burp Suite, hcitool]
+
+
+## 📫 Contact
+
+- **Email:** [2022pct0019@iitjammu.ac.in]
+- **LinkedIn:** [www.linkedin.com/in/shreya-singh-a38996196/]
+
+
+
+Feel free to reach out if you have any questions, collaborations, or just want to chat about [mention any specific topics of interest]. Let's connect and explore the world of technology together! 🚀
+
