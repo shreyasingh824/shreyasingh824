@@ -3,8 +3,8 @@
 I am currently pursuing my M.Tech in Computer Technology at [Indian Institute of Technology (IIT) Jammu](http://iitjammu.ac.in/), where I serve as a Research Assistant (RA). My research interests lie in network security(Authentication schemes).
 ## 📚 Education
 
-- **M.Tech in Computer Technology**
-  [Indian Institute of Technology (IIT) Jammu](http://iitjammu.ac.in/), [Year of Joining] - Present
+- **M.Tech (RA) in Computer Technology**
+  [Indian Institute of Technology (IIT) Jammu](http://iitjammu.ac.in/), [2022] - [2025]
 
 
 ## 🛠️ Skills
