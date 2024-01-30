@@ -10,7 +10,7 @@ I am currently pursuing my M.Tech in Computer Technology at [Indian Institute of
 ## 🛠️ Skills
 
 - **Programming Languages:** [C/C++, Python, Socket Programming]
-- ** Security Tools & Technologies:** [nmap, TcpDump, hping3, Wazuh, ZAP, Netcat, Burp Suite, hcitool]
+- **Security Tools & Technologies:** [nmap, TcpDump, hping3, Wazuh, ZAP, Netcat, Burp Suite, hcitool]
 - **Web Development:** [Bootstrap, HTML, CSS, JavaScript, NodeJs, ReactJs]
 - **Tools & OS:** [Linux, Kali Linux, Windows, Latex]
 - **Query Language:**[MySql]
