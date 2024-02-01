@@ -23,5 +23,5 @@ I am currently pursuing my M.Tech in Computer Technology at [Indian Institute of
 
 
 
-Feel free to reach out if you have any questions, collaborations, or just want to chat about [mention any specific topics of interest]. Let's connect and explore the world of technology together! 🚀
+
 
