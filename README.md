@@ -14,9 +14,8 @@
 
 
 
-# Hi there! 👋 I'm Shreya Singh.
 
-I am currently pursuing my M.Tech in Computer Technology at [Indian Institute of Technology (IIT) Jammu](http://iitjammu.ac.in/), where I serve as a Research Assistant (RA). My research interests lie in network security(Authentication schemes).
+
 ## 📚 Education
 
 - **M.Tech (RA) in Computer Technology**
