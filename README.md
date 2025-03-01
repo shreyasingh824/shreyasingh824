@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Singh Rathour</h1>
-<h3 align="center">Full Stack Developer | Android Developer | Ethical Hacker</h3>
+<h3 align="center">Full Stack Developer | Android Developer | Ethical Hacker | Security Researcher</h3>
 
 <p align="center">
   <a href="https://github.com/shreyasingh824">
