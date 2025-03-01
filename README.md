@@ -12,21 +12,7 @@
 
 ---
 
-## 🔗 Connect with Me:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shreya-singh-a38996196/">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="mailto:2022pct0019@iitjammu.ac.in">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" height="40" width="40" />
-  </a>
-  <a href="https://shreyasingh824.github.io/Portfolio-Website-main/">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Portfolio" height="40" width="40" />
-  </a>
-</p>
-
----
 
 ## 🎓 Education
 - **M.Tech (RA) in Computer Technology** - *Indian Institute of Technology (IIT) Jammu* (2022-2025) **CGPA: 8.40**
@@ -132,7 +118,21 @@
 📩 **Email:** 2022pct0019@iitjammu.ac.in  
 
 ---
+## 🔗 Connect with Me:
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreya-singh-a38996196/">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="mailto:2022pct0019@iitjammu.ac.in">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" height="40" width="40" />
+  </a>
+  <a href="https://shreyasingh824.github.io/Portfolio-Website-main/">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Portfolio" height="40" width="40" />
+  </a>
+</p>
+
+---
 ### ⭐ Don't forget to **star** my repositories if you like them! ⭐
 
 
