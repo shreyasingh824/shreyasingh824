@@ -85,26 +85,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 **[Malicious Browser Extensions (MBEs)](https://github.com/shreyasingh824)**
-📌 **Tools:** JavaScript, Chrome Extension APIs  
-🔹 Developed keylogger, screenshot capture, history tracker, and auto-like extensions.  
-🔹 Key APIs: `chrome.tabs.query()`, `chrome.tabs.sendMessage()`, `chrome.history.search()`
-
-### 🔹 **[Image Restoration with CNNs and SAM](https://github.com/hsoni0303/Let_Segment_Anything_Help_Image_Dehaze/tree/main)**
-📌 **Tools:** OpenCV, NumPy, Matplotlib  
-🔹 Developed deep learning-based image restoration for haze removal.
-
-### 🔹 **[Shopping List App](https://github.com/shreyasingh824/shoppinglistapp)**
-📌 **Tools:** Dart, Flutter, Firebase  
-🔹 Flutter app for creating & managing shopping lists.
-
-### 🔹 **[WPA/WPA2 Password Cracker](https://github.com/shreyasingh824/CrackWPAPassword)**
-📌 **Tools:** Python, PyShark  
-🔹 Implemented cryptographic algorithms to crack Wi-Fi passphrases.
-
----
 
 ## 🔥 Fun Facts & Interests
 - 🛠 **Reverse Engineering** is my jam.
