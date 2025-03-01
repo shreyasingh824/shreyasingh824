@@ -17,8 +17,8 @@
 ## 🎓 Education
 - **M.Tech (RA) in Computer Technology** - *Indian Institute of Technology (IIT) Jammu* (2022-2025) **CGPA: 8.40**
 - **B.Tech in Computer Science** - *ANDUAT, Ayodhya* (2017-2021) **CGPA: 8.64**
-- **12th Standard (CBSE)** - *A.V.M. Unnao* (2016) **91.6%**
-- **10th Standard (CBSE)** - *A.V.M. Unnao* (2014) **10 CGPA**
+- **12th Standard (CBSE)** - *A.V.M. Unnao* **91.6%**
+- **10th Standard (CBSE)** - *A.V.M. Unnao*  **10 CGPA**
 
 ---
 
