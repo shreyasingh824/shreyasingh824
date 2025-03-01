@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreya Singh</h1>
+<h1 align="center">Hi 👋, I'm Shreya Singh Rathour</h1>
 <h3 align="center">Full Stack Developer | Android Developer | Ethical Hacker</h3>
 
 <p align="center">
