@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya</h1>
 <h3 align="center">Full Stack Developer , Android Developer And Ethical Hacker from India</h3>
 
-- 🔭 I’m currently working on **Malicious Browser Extensions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
