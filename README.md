@@ -113,7 +113,7 @@
 </p>
 
 ---
-### ⭐ Don't forget to **star** my repositories if you like them! ⭐
+
 
 
 
