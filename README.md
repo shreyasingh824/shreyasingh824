@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shreya+Singh+Rathour;Software+Developer;Ethical+Hacker;Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shreya+Singh+Rathour;Software+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,26 +18,30 @@
 </p>
 
 <p align="center">
-  <b>Full Stack Developer | Android Developer | Ethical Hacker | Security Researcher</b>
+  <b> Software Development Engineer @Tesco</b>
 </p>
 
 ---
 
+
+
+## 💼 Work Experience
+
+### 🔹 **Tesco | Software Development Engineer (Jul 2025 - Present)**
+
+
+### 🔹 **Bobble AI | Application Security Intern (Jul 2024 - Present)**
+- Conducted **penetration testing** on Android applications, web platforms, and network infrastructure.
+- Performed **reverse engineering, Dynamic & Static Application Security Testing (DAST & SAST)**.
+- Developed **automation scripts** for GitLab & GitHub synchronization.
+
+---
 ## 🎓 Education
 
 - **M.Tech (RA) in Computer Technology** - *Indian Institute of Technology (IIT) Jammu* (2022-2025) **CGPA: 8.40**
 - **B.Tech in Computer Science** - *ANDUAT, Ayodhya* (2017-2021) **CGPA: 8.64**
 - **12th Standard (CBSE)** - *A.V.M. Unnao* **91.6%**
 - **10th Standard (CBSE)** - *A.V.M. Unnao*  **10 CGPA**
-
----
-
-## 💼 Work Experience
-
-### 🔹 **Bobble AI | Application Security Intern (Jul 2024 - Present)**
-- Conducted **penetration testing** on Android applications, web platforms, and network infrastructure.
-- Performed **reverse engineering, Dynamic & Static Application Security Testing (DAST & SAST)**.
-- Developed **automation scripts** for GitLab & GitHub synchronization.
 
 ---
 
