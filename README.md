@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <b> Software Development Engineer @Tesco</b>
+  <b>  SDE@Tesco</b>
 </p>
 
 ---
@@ -101,42 +101,10 @@
   </tr>
 </table>
 
----
 
-## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shreyasingh824&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasingh824&theme=radical" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyasingh824&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyasingh824&theme=radical" />
-</p>
 
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/shreyasingh824/Project1">
-    <img src="https://placehold.co/200x120?text=Project+1" width="200" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/shreyasingh824/Project2">
-    <img src="https://placehold.co/200x120?text=Project+2" width="200" alt="Project 2"/>
-  </a>
-</p>
-
----
-
-## 🔥 Fun Facts & Interests
-
-- 🛠 **Reverse Engineering** is my jam.
-- 🚀 Passionate about **Cyber Security & Ethical Hacking**.
-- 🎮 Love gaming, tech talks, and **Capture The Flag (CTF)** challenges.
-
----
 
 ## 🎯 Let's Connect & Build Something Amazing! 🚀
 
