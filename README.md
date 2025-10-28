@@ -30,7 +30,7 @@
 ### 🔹 **Tesco | Software Development Engineer (Jul 2025 - Present)**
 
 
-### 🔹 **Bobble AI | Application Security Intern (Jul 2024 - Present)**
+### 🔹 **Bobble AI | Application Security Intern (Jul 2024 - April 2025)**
 - Conducted **penetration testing** on Android applications, web platforms, and network infrastructure.
 - Performed **reverse engineering, Dynamic & Static Application Security Testing (DAST & SAST)**.
 - Developed **automation scripts** for GitLab & GitHub synchronization.
