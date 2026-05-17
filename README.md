@@ -25,18 +25,18 @@
 
 
 
-## 💼 Work Experience
+##  Work Experience
 
-### 🔹 **Tesco | Software Development Engineer (Jul 2025 - Present)**
+###  **Tesco | Software Development Engineer (Jul 2025 - Present)**
 
 
-### 🔹 **Bobble AI | Application Security Intern (Jul 2024 - April 2025)**
+###  **Bobble AI | Application Security Intern (Jul 2024 - April 2025)**
 - Conducted **penetration testing** on Android applications, web platforms, and network infrastructure.
 - Performed **reverse engineering, Dynamic & Static Application Security Testing (DAST & SAST)**.
 - Developed **automation scripts** for GitLab & GitHub synchronization.
 
 ---
-## 🎓 Education
+##  Education
 
 - **M.Tech (RA) in Computer Technology** - Indian Institute of Technology (IIT) Jammu
 - **B.Tech in Computer Science** - ANDUAT, Ayodhya
@@ -45,22 +45,22 @@
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shreyasingh824&theme=radical&margin-w=10&no-frame=true" />
 </p>
 
-- 🏅 **Winner** - Cyber Security Hackathon (IIT Jammu & ZPHQ Jammu) (2024)
-- 🥇 **Winner** - Fastest Signal First Quiz by Cy5.io (2024)
-- 🎖️ **Selected** in **IndiaAI CyberGuard Hackathon** (2025)
-- 🏆 **Amazon ML Summer School Participant** (2023)
-- 🥇 **GATE (96.92 percentile)** - Top Performers Nationwide (2022)
-- 🏅 **Selected Top 5 Students** - Computer Technology (IIT Jammu) (2022)
+-  **Winner** - Cyber Security Hackathon (IIT Jammu & ZPHQ Jammu) (2024)
+-  **Winner** - Fastest Signal First Quiz by Cy5.io (2024)
+-  **Selected** in **IndiaAI CyberGuard Hackathon** (2025)
+-  **Amazon ML Summer School Participant** (2023)
+-  **GATE (96.92 percentile)** - Top Performers Nationwide (2022)
+-  **Selected Top 5 Students** - Computer Technology (IIT Jammu) (2022)
 
 ---
 
-## 🚀 Skills & Tools
+##  Skills & Tools
 
 <table align="center">
   <tr>
@@ -106,7 +106,7 @@
 
 
 
-## 🎯 Let's Connect & Build Something Amazing! 🚀
+##  Let's Connect & Build Something Amazing! 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shreya-singh-a38996196/">
